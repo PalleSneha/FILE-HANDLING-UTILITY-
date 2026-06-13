@@ -35,5 +35,8 @@ Corporate Continuity: In a business context, it serves as a "commitment vault." 
 
 Legal/Secure Data: It acts as a rudimentary data escrow service, ensuring sensitive documents remain dormant until specific legal or time-bound conditions are met. 
 
-"OUTPUT" : <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/179f2ae1-2354-4db8-b28a-abbef7d34192" />
+"OUTPUT" :
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/179f2ae1-2354-4db8-b28a-abbef7d34192" />
+
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/4ccadf80-623a-4077-9d39-7acfd7c75c8a" />
