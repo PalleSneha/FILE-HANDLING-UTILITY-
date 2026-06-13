@@ -12,7 +12,7 @@
 
 "MENTOR" : NEELA SANTOSH KUMAR
 
-"DESCRIPTION" : The Digital Time Capsule: A Sanctuary for Your Data
+"DESCRIPTION" : TASK - 1  The Digital Time Capsule: A Sanctuary for Your Data
 
 In an age where digital information is often fleeting—scrolling past endless social media feeds and ephemeral messages—the Digital Time Capsule project was born out of a desire for permanence. It is a software solution designed to bridge the gap between today and tomorrow, allowing users to "seal" their thoughts, files, or reflections in a secure, digital vault that is inaccessible until a predetermined future date.
 
